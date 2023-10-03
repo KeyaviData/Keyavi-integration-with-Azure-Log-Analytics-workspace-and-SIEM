@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Keyavi.Logs.Sentinel.Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--csharp --port 7285",
+      "launchBrowser": false
+    }
+  }
+}
